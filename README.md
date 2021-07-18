@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Miguel Vicente Ortega Santiago.
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I am an experienced Analyst/Programmer.
+- 🌱 I’m currently on an internship with MVPStudio.
 - 📫 How to reach me ...
 
 <!---
